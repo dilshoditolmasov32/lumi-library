@@ -1,0 +1,69 @@
+{
+ "bookId": "the-hound-of-the-baskervilles",
+ "source": "Standard Ebooks",
+ "sourceUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+ "license": "CC0 1.0 (public domain dedication)",
+ "totalWords": 58938,
+ "chapters": [
+  {
+   "title": "Chapter I: Mr. Sherlock Holmes",
+   "words": 2243
+  },
+  {
+   "title": "Chapter II: The Curse of the Baskervilles",
+   "words": 3846
+  },
+  {
+   "title": "Chapter III: The Problem",
+   "words": 2893
+  },
+  {
+   "title": "Chapter IV: Sir Henry Baskerville",
+   "words": 4057
+  },
+  {
+   "title": "Chapter V: Three Broken Threads",
+   "words": 3412
+  },
+  {
+   "title": "Chapter VI: Baskerville Hall",
+   "words": 3489
+  },
+  {
+   "title": "Chapter VII: The Stapletons of Merripit House",
+   "words": 4963
+  },
+  {
+   "title": "Chapter VIII: First Report of Dr. Watson",
+   "words": 2755
+  },
+  {
+   "title": "Chapter IX: Second Report of Dr. Watson",
+   "words": 6649
+  },
+  {
+   "title": "Section 10",
+   "words": 3548
+  },
+  {
+   "title": "Chapter XI: The Man on the Tor",
+   "words": 4567
+  },
+  {
+   "title": "Chapter XII: Death on the Moor",
+   "words": 4830
+  },
+  {
+   "title": "Chapter XIII: Fixing the Nets",
+   "words": 3439
+  },
+  {
+   "title": "Chapter XIV: The Hound of the Baskervilles",
+   "words": 4166
+  },
+  {
+   "title": "Chapter XV: A Retrospection",
+   "words": 4081
+  }
+ ]
+}

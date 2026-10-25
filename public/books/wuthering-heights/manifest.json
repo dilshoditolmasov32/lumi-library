@@ -1,0 +1,145 @@
+{
+ "bookId": "wuthering-heights",
+ "source": "Standard Ebooks",
+ "sourceUrl": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
+ "license": "CC0 1.0 (public domain dedication)",
+ "totalWords": 115918,
+ "chapters": [
+  {
+   "title": "Chapter I",
+   "words": 1912
+  },
+  {
+   "title": "Chapter II",
+   "words": 3330
+  },
+  {
+   "title": "Chapter III",
+   "words": 4804
+  },
+  {
+   "title": "Chapter IV",
+   "words": 2686
+  },
+  {
+   "title": "Chapter V",
+   "words": 1402
+  },
+  {
+   "title": "Chapter VI",
+   "words": 2571
+  },
+  {
+   "title": "Chapter VII",
+   "words": 3998
+  },
+  {
+   "title": "Chapter VIII",
+   "words": 3391
+  },
+  {
+   "title": "Chapter IX",
+   "words": 6060
+  },
+  {
+   "title": "Chapter X",
+   "words": 6298
+  },
+  {
+   "title": "Chapter XI",
+   "words": 4067
+  },
+  {
+   "title": "Chapter XII",
+   "words": 4926
+  },
+  {
+   "title": "Chapter XIII",
+   "words": 4248
+  },
+  {
+   "title": "Chapter XIV",
+   "words": 3357
+  },
+  {
+   "title": "Chapter XV",
+   "words": 3138
+  },
+  {
+   "title": "Chapter XVI",
+   "words": 1752
+  },
+  {
+   "title": "Chapter XVII",
+   "words": 6836
+  },
+  {
+   "title": "Chapter XVIII",
+   "words": 3582
+  },
+  {
+   "title": "Chapter XIX",
+   "words": 1590
+  },
+  {
+   "title": "Chapter XX",
+   "words": 2161
+  },
+  {
+   "title": "Chapter XXI",
+   "words": 6346
+  },
+  {
+   "title": "Chapter XXII",
+   "words": 2335
+  },
+  {
+   "title": "Chapter XXIII",
+   "words": 2882
+  },
+  {
+   "title": "Chapter XXIV",
+   "words": 3903
+  },
+  {
+   "title": "Chapter XXV",
+   "words": 1419
+  },
+  {
+   "title": "Chapter XXVI",
+   "words": 1472
+  },
+  {
+   "title": "Chapter XXVII",
+   "words": 4510
+  },
+  {
+   "title": "Chapter XXVIII",
+   "words": 2619
+  },
+  {
+   "title": "Chapter XXIX",
+   "words": 2273
+  },
+  {
+   "title": "Chapter XXX",
+   "words": 2395
+  },
+  {
+   "title": "Chapter XXXI",
+   "words": 2087
+  },
+  {
+   "title": "Chapter XXXII",
+   "words": 4062
+  },
+  {
+   "title": "Chapter XXXIII",
+   "words": 3133
+  },
+  {
+   "title": "Chapter XXXIV",
+   "words": 4373
+  }
+ ]
+}

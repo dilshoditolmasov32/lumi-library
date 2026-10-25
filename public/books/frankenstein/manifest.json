@@ -1,0 +1,121 @@
+{
+ "bookId": "frankenstein",
+ "source": "Standard Ebooks",
+ "sourceUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+ "license": "CC0 1.0 (public domain dedication)",
+ "totalWords": 71877,
+ "chapters": [
+  {
+   "title": "Letter I",
+   "words": 1197
+  },
+  {
+   "title": "Letter II",
+   "words": 1311
+  },
+  {
+   "title": "Letter III",
+   "words": 302
+  },
+  {
+   "title": "Letter IV",
+   "words": 2723
+  },
+  {
+   "title": "Chapter I",
+   "words": 1765
+  },
+  {
+   "title": "Chapter II",
+   "words": 2201
+  },
+  {
+   "title": "Chapter III",
+   "words": 2671
+  },
+  {
+   "title": "Chapter IV",
+   "words": 2532
+  },
+  {
+   "title": "Chapter V",
+   "words": 2350
+  },
+  {
+   "title": "Chapter VI",
+   "words": 2712
+  },
+  {
+   "title": "Chapter VII",
+   "words": 3561
+  },
+  {
+   "title": "Chapter VIII",
+   "words": 3082
+  },
+  {
+   "title": "Chapter IX",
+   "words": 2206
+  },
+  {
+   "title": "Chapter X",
+   "words": 2353
+  },
+  {
+   "title": "Chapter XI",
+   "words": 2901
+  },
+  {
+   "title": "Chapter XII",
+   "words": 2068
+  },
+  {
+   "title": "Chapter XIII",
+   "words": 2030
+  },
+  {
+   "title": "Chapter XIV",
+   "words": 1853
+  },
+  {
+   "title": "Chapter XV",
+   "words": 3023
+  },
+  {
+   "title": "Chapter XVI",
+   "words": 3195
+  },
+  {
+   "title": "Chapter XVII",
+   "words": 1913
+  },
+  {
+   "title": "Chapter XVIII",
+   "words": 2835
+  },
+  {
+   "title": "Chapter XIX",
+   "words": 2604
+  },
+  {
+   "title": "Chapter XX",
+   "words": 3515
+  },
+  {
+   "title": "Chapter XXI",
+   "words": 3732
+  },
+  {
+   "title": "Chapter XXII",
+   "words": 3416
+  },
+  {
+   "title": "Chapter XXIII",
+   "words": 2589
+  },
+  {
+   "title": "Walton, in Continuation",
+   "words": 5237
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "bookId": "mrs-dalloway",
+ "source": "Standard Ebooks",
+ "sourceUrl": "https://standardebooks.org/ebooks/virginia-woolf/mrs-dalloway",
+ "license": "CC0 1.0 (public domain dedication)",
+ "totalWords": 63356,
+ "chapters": [
+  {
+   "title": "Part 1 of 14",
+   "words": 4532
+  },
+  {
+   "title": "Part 2 of 14",
+   "words": 4524
+  },
+  {
+   "title": "Part 3 of 14",
+   "words": 4604
+  },
+  {
+   "title": "Part 4 of 14",
+   "words": 4566
+  },
+  {
+   "title": "Part 5 of 14",
+   "words": 4574
+  },
+  {
+   "title": "Part 6 of 14",
+   "words": 4637
+  },
+  {
+   "title": "Part 7 of 14",
+   "words": 4516
+  },
+  {
+   "title": "Part 8 of 14",
+   "words": 4816
+  },
+  {
+   "title": "Part 9 of 14",
+   "words": 4660
+  },
+  {
+   "title": "Part 10 of 14",
+   "words": 4602
+  },
+  {
+   "title": "Part 11 of 14",
+   "words": 4657
+  },
+  {
+   "title": "Part 12 of 14",
+   "words": 4532
+  },
+  {
+   "title": "Part 13 of 14",
+   "words": 4590
+  },
+  {
+   "title": "Part 14 of 14",
+   "words": 3546
+  }
+ ]
+}

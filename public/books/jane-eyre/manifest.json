@@ -1,0 +1,173 @@
+{
+ "bookId": "jane-eyre",
+ "source": "Standard Ebooks",
+ "sourceUrl": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre",
+ "license": "CC0 1.0 (public domain dedication)",
+ "totalWords": 184390,
+ "chapters": [
+  {
+   "title": "Chapter I",
+   "words": 1931
+  },
+  {
+   "title": "Chapter II",
+   "words": 2731
+  },
+  {
+   "title": "Chapter III",
+   "words": 3181
+  },
+  {
+   "title": "Chapter IV",
+   "words": 5786
+  },
+  {
+   "title": "Chapter V",
+   "words": 4984
+  },
+  {
+   "title": "Chapter VI",
+   "words": 2902
+  },
+  {
+   "title": "Chapter VII",
+   "words": 3573
+  },
+  {
+   "title": "Chapter VIII",
+   "words": 2990
+  },
+  {
+   "title": "Chapter IX",
+   "words": 3241
+  },
+  {
+   "title": "Chapter X",
+   "words": 4358
+  },
+  {
+   "title": "Chapter XI",
+   "words": 6466
+  },
+  {
+   "title": "Chapter XII",
+   "words": 4163
+  },
+  {
+   "title": "Chapter XIII",
+   "words": 4034
+  },
+  {
+   "title": "Chapter XIV",
+   "words": 4927
+  },
+  {
+   "title": "Chapter XV",
+   "words": 5000
+  },
+  {
+   "title": "Chapter XVI",
+   "words": 3739
+  },
+  {
+   "title": "Chapter XVII",
+   "words": 8070
+  },
+  {
+   "title": "Chapter XVIII",
+   "words": 5836
+  },
+  {
+   "title": "Chapter XIX",
+   "words": 3746
+  },
+  {
+   "title": "Chapter XX",
+   "words": 5756
+  },
+  {
+   "title": "Chapter XXI",
+   "words": 8728
+  },
+  {
+   "title": "Chapter XXII",
+   "words": 2889
+  },
+  {
+   "title": "Chapter XXIII",
+   "words": 3892
+  },
+  {
+   "title": "Chapter XXIV",
+   "words": 7129
+  },
+  {
+   "title": "Chapter XXV",
+   "words": 4972
+  },
+  {
+   "title": "Chapter XXVI",
+   "words": 4234
+  },
+  {
+   "title": "Chapter XXVII · Part 1 of 3",
+   "words": 4504
+  },
+  {
+   "title": "Chapter XXVII · Part 2 of 3",
+   "words": 4534
+  },
+  {
+   "title": "Chapter XXVII · Part 3 of 3",
+   "words": 2031
+  },
+  {
+   "title": "Chapter XXVIII",
+   "words": 6831
+  },
+  {
+   "title": "Chapter XXIX",
+   "words": 4530
+  },
+  {
+   "title": "Chapter XXX",
+   "words": 3696
+  },
+  {
+   "title": "Chapter XXXI",
+   "words": 3091
+  },
+  {
+   "title": "Chapter XXXII",
+   "words": 4554
+  },
+  {
+   "title": "Chapter XXXIII",
+   "words": 4758
+  },
+  {
+   "title": "Chapter XXXIV · Part 1 of 2",
+   "words": 4538
+  },
+  {
+   "title": "Chapter XXXIV · Part 2 of 2",
+   "words": 4675
+  },
+  {
+   "title": "Chapter XXXV",
+   "words": 4309
+  },
+  {
+   "title": "Chapter XXXVI",
+   "words": 3879
+  },
+  {
+   "title": "Chapter XXXVII",
+   "words": 7399
+  },
+  {
+   "title": "Chapter XXXVIII: Conclusion",
+   "words": 1803
+  }
+ ]
+}

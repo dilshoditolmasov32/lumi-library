@@ -1,0 +1,105 @@
+{
+ "bookId": "persuasion",
+ "source": "Standard Ebooks",
+ "sourceUrl": "https://standardebooks.org/ebooks/jane-austen/persuasion",
+ "license": "CC0 1.0 (public domain dedication)",
+ "totalWords": 83244,
+ "chapters": [
+  {
+   "title": "Chapter I",
+   "words": 2608
+  },
+  {
+   "title": "Chapter II",
+   "words": 1970
+  },
+  {
+   "title": "Chapter III",
+   "words": 2828
+  },
+  {
+   "title": "Chapter IV",
+   "words": 1795
+  },
+  {
+   "title": "Chapter V",
+   "words": 3300
+  },
+  {
+   "title": "Chapter VI",
+   "words": 3795
+  },
+  {
+   "title": "Chapter VII",
+   "words": 3428
+  },
+  {
+   "title": "Chapter VIII",
+   "words": 3345
+  },
+  {
+   "title": "Chapter IX",
+   "words": 2861
+  },
+  {
+   "title": "Chapter X",
+   "words": 3848
+  },
+  {
+   "title": "Chapter XI",
+   "words": 3001
+  },
+  {
+   "title": "Chapter XII",
+   "words": 5521
+  },
+  {
+   "title": "Chapter XIII",
+   "words": 2740
+  },
+  {
+   "title": "Chapter XIV",
+   "words": 2521
+  },
+  {
+   "title": "Chapter XV",
+   "words": 2807
+  },
+  {
+   "title": "Chapter XVI",
+   "words": 2407
+  },
+  {
+   "title": "Chapter XVII",
+   "words": 3481
+  },
+  {
+   "title": "Chapter XVIII",
+   "words": 4117
+  },
+  {
+   "title": "Chapter XIX",
+   "words": 2388
+  },
+  {
+   "title": "Chapter XX",
+   "words": 3494
+  },
+  {
+   "title": "Chapter XXI",
+   "words": 6978
+  },
+  {
+   "title": "Chapter XXII",
+   "words": 5868
+  },
+  {
+   "title": "Chapter XXIII",
+   "words": 6567
+  },
+  {
+   "title": "Chapter XXIV",
+   "words": 1576
+  }
+ ]
+}
